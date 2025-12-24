@@ -40,7 +40,7 @@ It is designed for **business decision-making** and **performance tracking**.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
